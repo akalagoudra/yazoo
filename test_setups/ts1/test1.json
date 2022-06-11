@@ -1,0 +1,7 @@
+{
+    "wifi": {
+        "attenuator": "aok"
+    },
+    "attenuator": "{{ test_setups.ts1.test1.wifi.attenuator }}",   
+    "source": "{{ source1.att1 }}"
+}
